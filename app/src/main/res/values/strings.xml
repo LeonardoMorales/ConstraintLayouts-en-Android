@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Layouts En Android</string>
+    <string name="nombre">Nicole Edmons</string>
+    <string name="ocupacion">UI/UX Designer | Front End Developer</string>
+    <string name="ciudad">San Francisco, CA.</string>
+    <string name="num_followers">1845</string>
+    <string name="num_following">698</string>
+    <string name="following">Following</string>
+    <string name="posts">Posts</string>
+    <string name="num_posts">4219</string>
+    <string name="followers">Followers</string>
+    <string name="titulo">About Nicole</string>
+    <string name="cuerpo">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</string>
+    <string name="background">background</string>
+</resources>
